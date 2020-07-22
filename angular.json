@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "aprender-rotas"
+    }
+  },
+  "defaultProject": "aprender-rotas",
+  "cli": {
+    "analytics": "f1553764-c17b-4dbf-a9bb-9a4caeda6bc5"
+  }
 }
